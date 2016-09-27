@@ -5,6 +5,7 @@
   Your browser does not support HTML5 video.
 </video>
 
+
 1. fork 这个[模版仓库](https://github.com/Mr-Wiredancer/jsmagic-learning-log)；
 2. 用你的 github 账户登录 [gitbook 网站](gitbook.com)；
 3. 创建一个新的 gitbook，创建时选择从 github 创建，并选择你在步骤 1 中 fork 的目录
